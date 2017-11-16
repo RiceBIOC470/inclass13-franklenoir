@@ -1,5 +1,14 @@
 %Inclass 13
 %Walter Frank Lenoir
+%GB comments
+1a 70 To use this method, it is best to use a larger radial value in the morphological structuring element. Change it to a higher value… about 100+ and the resulting image becomes better. 
+1b 100 Thresholding is pretty high. But the correct idea. 
+1c 100
+1d 100
+2a 100
+2b 100
+2c 100
+overall: 96
 
 %Part 1. In this directory, you will find an image of some cells expressing a 
 % fluorescent protein in the nucleus. 
